@@ -1,34 +1,12 @@
 var students = [
     {
-      lname: "Portilla",
-      name: "Francisco Emanuel",
-      age: 26,
+      lname: "Veliz Medina",
+      name: "Diego Allan",
+      age: 24,
       birthday: {
-        year: 1995,
-        month: "November",
-        day: 16
-      },
-      Career: "IDYGS"
-    },
-    {
-      lname: "Salazar",
-      name: "Emanuel",
-      age: 27,
-      birthday: {
-        year: 1994,
-        month: "November",
-        day: 16
-      },
-      Career: "IDYGS"
-    },
-    {
-      lname: "Reyes",
-      name: "Celso",
-      age: 21,
-      birthday: {
-        year: 2000,
-        month: "April",
-        day: 26
+        year: 1997,
+        month: "Aug",
+        day: 04
       },
       Career: "IDYGS"
     }
